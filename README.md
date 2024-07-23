@@ -50,7 +50,7 @@ To get a local copy up and running, follow these steps:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](your-repo-link/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Vick606/memory-card/issues).
 
 ## 👏 Show your support
 
