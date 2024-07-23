@@ -1,5 +1,5 @@
 import Card from './Card';
-import styles from './GameBoard.module.css';
+import styles from '../styles/GameBoard.module.css';
 
 function GameBoard({ cards, onCardClick }) {
   return (
