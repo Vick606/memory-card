@@ -1,0 +1,25 @@
+.scoreboard {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+  }
+  
+  .scoreItem {
+    text-align: center;
+  }
+  
+  .scoreItem span {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .scoreValue {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #e3350d;
+  }
