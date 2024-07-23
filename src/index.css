@@ -26,9 +26,9 @@ body {
 }
 
 .footer {
-  margin-top: auto;
+  margin-top: 10px; 
   text-align: center;
-  padding: 20px;
+  padding: 10px;  
   background-color: var(--card-background);
   color: var(--secondary-color);
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
