@@ -28,7 +28,7 @@ A fun and challenging memory game featuring your favorite Pokémon! Test your re
 
 ## 🚀 Live Demo
 
-Check out the live demo [here](your-vercel-link)!
+Check out the live demo [here](https://memory-card-eight-lime.vercel.app/)!
 
 ## 🎓 Learning Outcomes
 
@@ -63,6 +63,7 @@ This project is [MIT](LICENSE) licensed.
 ## 📧 Contact
 
 Vick - vickoch20@gmail.com
+
 ---
 
 Happy coding! 💻🎉
