@@ -1,4 +1,4 @@
-import styles from './Scoreboard.module.css';
+import styles from '../styles/Scoreboard.module.css';
 
 function Scoreboard({ score, bestScore }) {
   return (
