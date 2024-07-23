@@ -1,0 +1,27 @@
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .cardImage {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+  }
+  
+  .cardName {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: #333;
+    text-transform: capitalize;
+  }
