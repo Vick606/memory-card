@@ -6,5 +6,8 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
+    <footer className="footer">
+      <p>Designed with <span className="heart">&hearts;</span> by Victor Koech</p>
+    </footer>
   </React.StrictMode>,
 )
