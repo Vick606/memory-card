@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Scoreboard from './components/Scoreboard';
 import GameBoard from './components/GameBoard';
-import styles from './App.module.css';
+import styles from './styles/App.module.css';
 
 function App() {
   const [score, setScore] = useState(0);
